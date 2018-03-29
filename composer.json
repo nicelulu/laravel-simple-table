@@ -1,0 +1,21 @@
+{
+  "name": "xiaolu/try-make-package",
+  "description": "try make a package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nicelulu",
+      "email": "821008736@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Table\\": "src/table"
+    }
+  }
+}
