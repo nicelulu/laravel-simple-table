@@ -1,6 +1,6 @@
 {
-  "name": "xiaolu/try-make-package",
-  "description": "try make a package",
+  "name": "nicelulu/laravel-simple-table",
+  "description": "一个简单表格",
   "type": "library",
   "license": "MIT",
   "authors": [
