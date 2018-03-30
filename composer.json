@@ -1,6 +1,7 @@
 {
   "name": "nicelulu/laravel-simple-table",
   "description": "一个简单表格",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -8,13 +9,12 @@
       "email": "821008736@qq.com"
     }
   ],
-  "prefer-stable": true,
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.0",
     "laravel/framework": "5.2.* || 5.3.* || 5.4.* || 5.5.*"
   },
-  "require-dev": {
+  "require-dev":{
     "laravel/laravel": "~5.2"
   },
   "autoload": {
