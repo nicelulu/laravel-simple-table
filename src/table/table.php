@@ -2,10 +2,17 @@
 
 // liuxiaolu@dankegongyu.com
 
-class table
+use Illuminate\Support\ServiceProvider;
+
+class table extends ServiceProvider
 {
-    public function desc()
+    public function boot()
     {
 
+    }
+
+    public function register()
+    {
+        
     }
 }
