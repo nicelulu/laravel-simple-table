@@ -9,7 +9,7 @@
     }
   ],
   "prefer-stable": true,
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=7.0",
     "laravel/framework": "5.2.* || 5.3.* || 5.4.* || 5.5.*",
