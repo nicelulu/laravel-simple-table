@@ -10,6 +10,7 @@
       "email": "821008736@qq.com"
     }
   ],
+  "prefer-stable": true,
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.0",
